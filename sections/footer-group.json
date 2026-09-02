@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The Green Plate</p>",
+                    "text": "<p>The Green Plate Marketing LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
