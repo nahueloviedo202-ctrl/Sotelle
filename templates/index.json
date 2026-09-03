@@ -339,9 +339,9 @@
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
-                "custom_button_background": "#adc178",
+                "custom_button_background": "#1A1A1A",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#adc178",
+                "custom_button_border": "#1A1A1A",
                 "link_text_color": "",
                 "width": "fit-content",
                 "custom_width": 100,
@@ -376,7 +376,7 @@
         "section_height": "medium",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#F5F2ED",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -392,307 +392,74 @@
         "padding-block-end": 20
       }
     },
-    "section_WPXztP": {
-      "type": "section",
+    "comparison_table_j4eGLQ": {
+      "type": "comparison-table",
       "blocks": {
-        "text_fBpHLp": {
-          "type": "text",
-          "name": "t:names.heading",
+        "comparison_table_row_dVN9rL": {
+          "type": "comparison-table-row",
           "settings": {
-            "text": "<h2>Frequently Asked Questions</h2>",
-            "width": "fit-content",
-            "max_width": "narrow",
-            "alignment": "left",
-            "type_preset": "h2",
-            "font": "var(--font-body--family)",
-            "font_size": "",
-            "font_size_mobile": "2rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "text_color": "",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "row_label": "Fast & Free Shipping",
+            "your_brand_status": "check",
+            "others_status": "cross"
           },
           "blocks": {}
         },
-        "accordion_wtdDRb": {
-          "type": "accordion",
-          "name": "t:names.accordion",
+        "comparison_table_row_irUFtT": {
+          "type": "comparison-table-row",
           "settings": {
-            "icon": "caret",
-            "dividers": true,
-            "divider_color": "#b6b4b4",
-            "type_preset": "paragraph",
-            "limit_width_desktop": true,
-            "max_width_desktop": 800,
-            "background_color": "",
-            "text_color": "",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_color": "",
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
+            "row_label": "24/7 Customer Support",
+            "your_brand_status": "check",
+            "others_status": "cross"
           },
-          "blocks": {
-            "accordion_row_jGX4eg": {
-              "type": "_accordion-row",
-              "settings": {
-                "heading": "How long does shipping take?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_yAdWfG": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>Orders typically ship within 2-3 business days and arrive within 5-10 business days, depending on your location.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_yAdWfG"
-              ]
-            },
-            "accordion_row_bHEdG6": {
-              "type": "_accordion-row",
-              "settings": {
-                "heading": "What is your return policy?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_yF9zXw": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>We offer free returns within 30 days of delivery. Items must be unworn, unwashed, and in their original condition.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_yF9zXw"
-              ]
-            },
-            "accordion_row_bWLCLY": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "How do I know what size to order?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_jMNdL7": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Each product page includes a detailed size chart. If you're between sizes, we recommend sizing up for a more relaxed fit.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_jMNdL7"
-              ]
-            },
-            "accordion_row_UkbzUQ": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Can I track my order?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_cLi3n7": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Yes. Once your order ships, you'll receive a tracking number by email to follow your package every step of the way.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_cLi3n7"
-              ]
-            },
-            "accordion_row_YRgVMj": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "What payment methods do you accept?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_8TmnkK": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>We accept all major credit and debit cards, as well as PayPal and other secure payment methods at checkout.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_8TmnkK"
-              ]
-            }
+          "blocks": {}
+        },
+        "comparison_table_row_Cc4Q7L": {
+          "type": "comparison-table-row",
+          "settings": {
+            "row_label": "Quality Guaranteed",
+            "your_brand_status": "check",
+            "others_status": "cross"
           },
-          "block_order": [
-            "accordion_row_jGX4eg",
-            "accordion_row_bHEdG6",
-            "accordion_row_bWLCLY",
-            "accordion_row_UkbzUQ",
-            "accordion_row_YRgVMj"
-          ]
+          "blocks": {}
         }
       },
       "block_order": [
-        "text_fBpHLp",
-        "accordion_wtdDRb"
+        "comparison_table_row_dVN9rL",
+        "comparison_table_row_irUFtT",
+        "comparison_table_row_Cc4Q7L"
       ],
-      "name": "t:names.faq_section",
+      "custom_css": [],
+      "name": "Comparison table",
       "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "center",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 32,
+        "heading": "Why Choose Vellure",
+        "heading_type_preset": "h2",
+        "heading_font_size_desktop": 40,
+        "heading_font_size_mobile": 32,
+        "heading_alignment": "center",
+        "subheading": "<p>Discover what sets Vellure apart from the competition. We're committed to delivering exceptional quality, outstanding customer service, and unbeatable value on every purchase.</p>",
+        "subheading_font_size_desktop": 16,
+        "subheading_font_size_mobile": 15,
+        "header_font_size_desktop": 16,
+        "header_font_size_mobile": 14,
+        "cell_font_size_desktop": 14,
+        "cell_font_size_mobile": 14,
         "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "background_media": "none",
-        "background_color": "#f0ead2",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_color": "",
-        "border_radius": 0,
-        "padding-block-start": 64,
-        "padding-block-end": 64
+        "border_radius": 32,
+        "brand_column_heading": "Vellure",
+        "highlighted_column_background_color": "#B8935F",
+        "highlighted_column_text_color": "#ffffff",
+        "others_column_heading": "Others",
+        "regular_cell_background_color": "#F5F2ED",
+        "regular_cell_text_color": "{{ settings.color_palette.foreground }}",
+        "check_icon_color": "{{ settings.color_palette.foreground }}",
+        "check_background_color": "#EDE6DB",
+        "cross_icon_color": "{{ settings.color_palette.background }}",
+        "cross_background_color": "#B8935F",
+        "background_color": "#F5F2ED",
+        "padding-block-start": 60,
+        "padding-block-end": 36,
+        "padding-inline-start": 0,
+        "padding-inline-end": 0
       }
     },
     "section_db66T8": {
@@ -798,7 +565,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#F5F2ED",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -836,7 +603,7 @@
             "height": "fit",
             "custom_height": 100,
             "background_media": "none",
-            "background_color": "#dde5b6",
+            "background_color": "#D9C4A5",
             "video_position": "cover",
             "background_image_position": "cover",
             "toggle_overlay": false,
@@ -919,9 +686,9 @@
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
-                "custom_button_background": "#adc178",
+                "custom_button_background": "#1A1A1A",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#adc178",
+                "custom_button_border": "#1A1A1A",
                 "link_text_color": "",
                 "width": "fit-content",
                 "custom_width": 100,
@@ -1051,10 +818,10 @@
         "star_color": "#ffcc00",
         "star_background_color": "#ffcc00",
         "show_quote_icon": true,
-        "quote_icon_color": "#adc178",
+        "quote_icon_color": "#B8935F",
         "quote_icon_size_desktop": 30,
         "quote_icon_size_mobile": 24,
-        "card_background_color": "#f0ead2",
+        "card_background_color": "#EDE6DB",
         "card_text_color": "",
         "card_padding_block": 20,
         "card_padding_inline": 20,
@@ -1063,7 +830,7 @@
         "border_width": 1,
         "border_opacity": 100,
         "border_color": "",
-        "background_color": "#adc178",
+        "background_color": "#F5F2ED",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
@@ -1157,7 +924,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#F5F2ED",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1257,7 +1024,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#F5F2ED",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1357,7 +1124,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#F5F2ED",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1464,7 +1231,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#EDE6DB",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -1478,76 +1245,6 @@
         "border_radius": 0,
         "padding-block-start": 60,
         "padding-block-end": 60
-      }
-    },
-    "comparison_table_j4eGLQ": {
-      "type": "comparison-table",
-      "blocks": {
-        "comparison_table_row_dVN9rL": {
-          "type": "comparison-table-row",
-          "settings": {
-            "row_label": "Fast & Free Shipping",
-            "your_brand_status": "check",
-            "others_status": "cross"
-          },
-          "blocks": {}
-        },
-        "comparison_table_row_irUFtT": {
-          "type": "comparison-table-row",
-          "settings": {
-            "row_label": "24/7 Customer Support",
-            "your_brand_status": "check",
-            "others_status": "cross"
-          },
-          "blocks": {}
-        },
-        "comparison_table_row_Cc4Q7L": {
-          "type": "comparison-table-row",
-          "settings": {
-            "row_label": "Quality Guaranteed",
-            "your_brand_status": "check",
-            "others_status": "cross"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "comparison_table_row_dVN9rL",
-        "comparison_table_row_irUFtT",
-        "comparison_table_row_Cc4Q7L"
-      ],
-      "custom_css": [],
-      "name": "Comparison table",
-      "settings": {
-        "heading": "Why Choose Vellure",
-        "heading_type_preset": "h2",
-        "heading_font_size_desktop": 40,
-        "heading_font_size_mobile": 32,
-        "heading_alignment": "center",
-        "subheading": "<p>Discover what sets Vellure apart from the competition. We're committed to delivering exceptional quality, outstanding customer service, and unbeatable value on every purchase.</p>",
-        "subheading_font_size_desktop": 16,
-        "subheading_font_size_mobile": 15,
-        "header_font_size_desktop": 16,
-        "header_font_size_mobile": 14,
-        "cell_font_size_desktop": 14,
-        "cell_font_size_mobile": 14,
-        "section_width": "page-width",
-        "border_radius": 32,
-        "brand_column_heading": "Vellure",
-        "highlighted_column_background_color": "#adc178",
-        "highlighted_column_text_color": "#ffffff",
-        "others_column_heading": "Others",
-        "regular_cell_background_color": "#dde5b6",
-        "regular_cell_text_color": "{{ settings.color_palette.foreground }}",
-        "check_icon_color": "#ffffff",
-        "check_background_color": "#53af01",
-        "cross_icon_color": "#121212",
-        "cross_background_color": "#adc178",
-        "background_color": "#f0ead2",
-        "padding-block-start": 60,
-        "padding-block-end": 36,
-        "padding-inline-start": 0,
-        "padding-inline-end": 0
       }
     },
     "section_QiLNme": {
@@ -2251,13 +1948,316 @@
         "section_width": "page-width",
         "ring_size": 70,
         "ring_thickness": 7,
-        "ring_color": "#adc178",
+        "ring_color": "#B8935F",
         "ring_track_color": "",
         "ring_label_font_size_desktop": 13,
         "ring_label_font_size_mobile": 12,
-        "background_color": "#f0ead2",
+        "background_color": "#EDE6DB",
         "padding-block-start": 60,
         "padding-block-end": 60
+      }
+    },
+    "section_WPXztP": {
+      "type": "section",
+      "blocks": {
+        "text_fBpHLp": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Frequently Asked Questions</h2>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "font_size_mobile": "2rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "accordion_wtdDRb": {
+          "type": "accordion",
+          "name": "t:names.accordion",
+          "settings": {
+            "icon": "caret",
+            "dividers": true,
+            "divider_color": "#1A1A1A",
+            "type_preset": "paragraph",
+            "limit_width_desktop": true,
+            "max_width_desktop": 800,
+            "background_color": "",
+            "text_color": "",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "accordion_row_jGX4eg": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "How long does shipping take?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_yAdWfG": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Orders typically ship within 2-3 business days and arrive within 5-10 business days, depending on your location.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_yAdWfG"
+              ]
+            },
+            "accordion_row_bHEdG6": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "What is your return policy?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_yF9zXw": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>We offer free returns within 30 days of delivery. Items must be unworn, unwashed, and in their original condition.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_yF9zXw"
+              ]
+            },
+            "accordion_row_bWLCLY": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "How do I know what size to order?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_jMNdL7": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Each product page includes a detailed size chart. If you're between sizes, we recommend sizing up for a more relaxed fit.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_jMNdL7"
+              ]
+            },
+            "accordion_row_UkbzUQ": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "Can I track my order?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_cLi3n7": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Yes. Once your order ships, you'll receive a tracking number by email to follow your package every step of the way.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_cLi3n7"
+              ]
+            },
+            "accordion_row_YRgVMj": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "What payment methods do you accept?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_8TmnkK": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>We accept all major credit and debit cards, as well as PayPal and other secure payment methods at checkout.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_8TmnkK"
+              ]
+            }
+          },
+          "block_order": [
+            "accordion_row_jGX4eg",
+            "accordion_row_bHEdG6",
+            "accordion_row_bWLCLY",
+            "accordion_row_UkbzUQ",
+            "accordion_row_YRgVMj"
+          ]
+        }
+      },
+      "block_order": [
+        "text_fBpHLp",
+        "accordion_wtdDRb"
+      ],
+      "name": "t:names.faq_section",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "#D9C4A5",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 64,
+        "padding-block-end": 64
       }
     },
     "section_KmUmrF": {
@@ -2298,7 +2298,7 @@
             "custom_width_mobile": 100,
             "background_color": "",
             "input_style": "custom",
-            "input_background_color": "#f0ead2",
+            "input_background_color": "#EDE6DB",
             "input_text_color": "{{ settings.color_palette.foreground }}",
             "input_border_color": "{{ settings.color_palette.foreground }}",
             "border_width": 1,
@@ -2315,9 +2315,9 @@
               "settings": {
                 "label": "Send",
                 "style_class": "button-custom",
-                "custom_button_background": "#adc178",
+                "custom_button_background": "#1A1A1A",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#adc178",
+                "custom_button_border": "#1A1A1A",
                 "width": "custom",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
@@ -2347,7 +2347,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#F5F2ED",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -2367,14 +2367,14 @@
   "order": [
     "product_list_fa6P9H",
     "section_Cd6VRD",
-    "section_WPXztP",
+    "comparison_table_j4eGLQ",
     "section_db66T8",
     "hero_hwCGPz",
     "testimonials_7zeqRi",
     "section_LXUL7M",
-    "comparison_table_j4eGLQ",
     "section_QiLNme",
     "results_RhLgBy",
+    "section_WPXztP",
     "section_KmUmrF"
   ]
 }
