@@ -16,7 +16,7 @@
       "name": "Shape divider",
       "settings": {
         "height": 80,
-        "shape_color": "#B8935F",
+        "shape_color": "#BA9259",
         "flip": false,
         "animate": true,
         "animation_speed": 1,
@@ -1026,7 +1026,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 20,
-        "background_color": "#B8935F",
+        "background_color": "#BA9259",
         "padding-block-start": 30,
         "padding-block-end": 30
       }
