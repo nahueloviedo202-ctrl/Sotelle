@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Free Shipping — On Every Order, No Minimum",
+            "text": "Easy Returns — Shop With Confidence, Every Time",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -32,7 +32,7 @@
         "announcement_q3NaNh": {
           "type": "_announcement",
           "settings": {
-            "text": "Fast Shipping — Your Order, Delivered With Care",
+            "text": "Free Shipping — On Every Pair, No Minimum",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -47,7 +47,7 @@
         "announcement_YChUPc": {
           "type": "_announcement",
           "settings": {
-            "text": "Easy Returns — Shop With Confidence, Every Time",
+            "text": "Fast Delivery — Your Next Pair, Right to Your Door",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -55,7 +55,7 @@
             "weight": "",
             "letter_spacing": "normal",
             "case": "none",
-            "text_color": "#1A1A1A"
+            "text_color": "#1a1a1a"
           },
           "blocks": {}
         }
@@ -69,7 +69,7 @@
       "settings": {
         "speed": 4,
         "section_width": "full-width",
-        "background_color": "#EDE6DB",
+        "background_color": "#ede6db",
         "divider_width": 0,
         "divider_color": "",
         "padding-block-start": 20,
@@ -99,8 +99,8 @@
             "background_color": "",
             "text_color": "",
             "link_background_color": "",
-            "link_background_color_hover": "",
-            "link_background_color_active": "#EDE6DB",
+            "link_background_color_hover": "#F4EEE4",
+            "link_background_color_active": "#F4EEE4",
             "link_background_radius": 10,
             "link_background_padding_block": 6,
             "type_font_primary_size": "0.875rem",
@@ -150,7 +150,7 @@
         "actions_font_size": "0.875rem",
         "actions_font": "body",
         "actions_text_case": "none",
-        "background_color_top": "#BA9259",
+        "background_color_top": "#2A3B2E",
         "text_color_top": "{{ settings.color_palette.foreground }}",
         "background_color_bottom": "",
         "text_color_bottom": "",
