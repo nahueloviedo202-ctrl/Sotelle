@@ -16,13 +16,13 @@
       "name": "Shape divider",
       "settings": {
         "height": 80,
-        "shape_color": "#BA9259",
+        "shape_color": "#ba9259",
         "flip": false,
         "animate": true,
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#F5F2ED"
+        "background_color": "#f5f2ed"
       }
     },
     "footer_m9NzUG": {
@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Vellure Marketing LLC</p>",
+                    "text": "<p>Sotelle Marketing LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -338,7 +338,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Vellure Marketing LLC is a Limited Liability Company registered in the United States.</p>",
+                    "text": "<p>Sotelle Marketing LLC is a Limited Liability Company registered in the United States.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -538,7 +538,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Remote-first company. Vellure Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
+                    "text": "<p>Remote-first company. Sotelle Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -665,7 +665,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@vellure.com</p>",
+                    "text": "<p>Email: contact@Sotelle.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -766,7 +766,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Vellure Marketing LLC</p>",
+                    "text": "<p>Sotelle Marketing LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -975,7 +975,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>© 2026 Vellure Marketing LLC | EIN: 98-1967177 | All rights reserved.</p>",
+                    "text": "<p>© 2026 Sotelle Marketing LLC | EIN: 98-1967177 | All rights reserved.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1026,7 +1026,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 20,
-        "background_color": "#BA9259",
+        "background_color": "#ba9259",
         "padding-block-start": 30,
         "padding-block-end": 30
       }

@@ -1907,7 +1907,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 93,
-            "text": "<p>Our customers love how these pieces elevate their everyday style from the first wear, with quality fabrics and a flattering fit.</p>"
+            "text": "<p>Our customers love how these pairs elevate their everyday style from the first wear, with quality materials and a comfortable fit.</p>"
           },
           "blocks": {}
         },
@@ -1915,7 +1915,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 96,
-            "text": "<p>More than 10,000 loyal customers have already discovered Vellure and never looked back. Each piece is a unique addition to their wardrobe.</p>"
+            "text": "<p>More than 10,000 loyal customers have already discovered Sotelle and never looked back. Each pair is a unique addition to their collection.</p>"
           },
           "blocks": {}
         },
@@ -1923,7 +1923,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 100,
-            "text": "<p>Simple, elegant, and comfortable. These pieces are exactly what your wardrobe has been waiting for to feel effortlessly put-together.</p>"
+            "text": "<p>Simple, elegant, and comfortable. These pairs are exactly what your shoe rotation has been waiting for to feel effortlessly put-together.</p>"
           },
           "blocks": {}
         }
@@ -1935,12 +1935,12 @@
       ],
       "name": "Results",
       "settings": {
-        "heading": "Discover Our Best Pieces",
+        "heading": "Discover Our Best Pairs",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
         "heading_alignment": "center",
-        "subheading": "<p>Explore our collection of elegant and versatile pieces. From timeless staples to seasonal favorites, find the inspiration you need to dress with confidence, with quality fabrics and thoughtful design.</p>",
+        "subheading": "<p>Explore our collection of elegant and versatile shoes. From timeless staples to seasonal favorites, find the inspiration you need to step out with confidence, with quality materials and thoughtful design.</p>",
         "subheading_font_size_desktop": 16,
         "subheading_font_size_mobile": 15,
         "stat_text_font_size_desktop": 15,
@@ -2062,7 +2062,7 @@
                 "text_yF9zXw": {
                   "type": "text",
                   "settings": {
-                    "text": "<p>We offer free returns within 30 days of delivery. Items must be unworn, unwashed, and in their original condition.</p>",
+                    "text": "<p>We offer free returns within 30 days of delivery. Items must be unworn and in their original packaging.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
@@ -2104,7 +2104,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Each product page includes a detailed size chart. If you're between sizes, we recommend sizing up for a more relaxed fit.</p>",
+                    "text": "<p>Each product page includes a detailed size chart. If you're between sizes, we recommend sizing up for a more comfortable fit.<br/></p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
