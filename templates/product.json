@@ -22,7 +22,7 @@
             "icon": "caret",
             "disclosure_heading_preset": "h6",
             "text_color": "",
-            "dividers": true,
+            "dividers": false,
             "divider_color": "{{ settings.color_palette.color2 }}",
             "padding-block-start": 0,
             "padding-block-end": 0,
