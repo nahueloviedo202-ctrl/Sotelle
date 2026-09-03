@@ -110,7 +110,7 @@
                 "letter_spacing": "normal",
                 "case": "none",
                 "text_color": "",
-                "sale_price_color": "#BA9259",
+                "sale_price_color": "#ba9259",
                 "compare_price_color": "{{ settings.color_palette.color1 }}",
                 "padding-block-start": 0,
                 "padding-block-end": 0,
@@ -139,7 +139,7 @@
         "columns_gap_vertical": 24,
         "padding-inline-start": 0,
         "padding-inline-end": 0,
-        "background_color": "#f5f2ed",
+        "background_color": "#F4EEE4",
         "padding-block-start": 0,
         "padding-block-end": 32
       }
