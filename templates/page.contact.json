@@ -102,7 +102,7 @@
       "settings": {
         "content_direction": "column",
         "gap": 32,
-        "background_color": "#f5f2ed",
+        "background_color": "#F4EEE4",
         "padding-block-start": 40,
         "padding-block-end": 0
       }
@@ -136,9 +136,9 @@
               "settings": {
                 "label": "Submit",
                 "style_class": "button-custom",
-                "custom_button_background": "#1a1a1a",
+                "custom_button_background": "#2A3B2E",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#1a1a1a",
+                "custom_button_border": "#2A3B2E",
                 "width": "custom",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
@@ -167,7 +167,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#f5f2ed",
+        "background_color": "#F4EEE4",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
