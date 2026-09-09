@@ -1231,7 +1231,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#EAE1D2",
+        "background_color": "#eae1d2",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -2135,6 +2135,7 @@
             "accordion_row_UkbzUQ": {
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
+              "disabled": true,
               "settings": {
                 "heading": "Can I track my order?",
                 "open_by_default": false,
@@ -2177,6 +2178,7 @@
             "accordion_row_YRgVMj": {
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
+              "disabled": true,
               "settings": {
                 "heading": "What payment methods do you accept?",
                 "open_by_default": false,
@@ -2244,7 +2246,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#2A3B2E",
+        "background_color": "#2a3b2e",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
