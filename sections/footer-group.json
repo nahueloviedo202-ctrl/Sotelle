@@ -769,7 +769,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@sotelleshop.com</p>",
+                    "text": "<p>Email: info@sotelleshop.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
