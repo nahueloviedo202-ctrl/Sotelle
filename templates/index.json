@@ -792,6 +792,7 @@
         "testimonial_card_zwTdMh",
         "testimonial_card_RUeNDU"
       ],
+      "disabled": true,
       "name": "Testimonials",
       "settings": {
         "heading": "What Our Customers Are Saying",
